@@ -1,0 +1,63 @@
+Estrutura da página;!!!!!!!!!!!!!!!!
+secao-banner{
+topo
+}
+
+secao-informacoes{    
+container-texto
+container imagem parallax
+container-texto
+container-imagem parallax
+container texto
+}
+
+secao-contatos{
+
+}
+
+secao-horarios{
+
+}
+
+{
+    rodape
+}
+Navegação entre as seções da página do projeto;(topo)(rodape)
+Inserção de um conteúdo da página externa;(contatos)
+Implementação de uma lista informativa;(horarios)
+Posicionamento fixo do topo;(fixed (topo))
+Posicionamento do link do rodapé;(fixed(rodape))
+Fontes usadas no projeto; Fraunces, Oswald e Lato
+codigo html das fontes{(referencia img pag do projeto)
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Lato&family=Oswald&display=swap" rel="stylesheet">
+font-family: 'Fraunces', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+Paleta de cores usada no projeto;{ (referencia img pag do projeto)(referencia img pag do projeto)
+#c4a47c
+#fff
+#000000
+#604829
+#666
+#ACACAC
+Imagens usadas no projeto;{
+Uma imagem utilizada como logo da página;
+Uma imagem utilizada no banner da página;
+Duas imagens utilizadas na seção informações da página;
+Uma imagem utilizada na seção contatos da página.
+Uma imagem utilizada na seção horários da página.
+}
+Espaçamento dos elementos do projeto;{
+    consultar img de espaçaento do projeto
+}
+Aplicação do efeito parallax nas imagens do projeto.{
+    aplicados em todas imagens de fundo do projeto
+}
+
+
+font-family: 'Fraunces', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
